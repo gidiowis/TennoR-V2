@@ -1,23 +1,23 @@
 {
-  "name": "Bmw-md",
+  "name": "Tennor-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "tennor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "tennormd": "pm2 start tennor.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Tennor-md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimaitech"
+    "Tennor tech"
   ],
-  "author": "ibrahimartech",
+  "author": "Giddy Tennor",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
