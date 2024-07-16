@@ -93,8 +93,8 @@ Contributions to *Tennor-MD* are welcome! If you have ideas for new features, im
 
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Tennor-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+Enjoy the diverse features of the *Tennor-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by Giddy Tennor 
 .
