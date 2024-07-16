@@ -22,7 +22,7 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/Tennor-V2-MD&template=https://github.com/gidiowis/Tennor-V2-MD/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://ultrazy-53593a853dec.herokuapp.com/)
 
 </p>
 
