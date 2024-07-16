@@ -18,11 +18,11 @@
 
 </p>
 
-<a href="https://github.com/GIDIOWIS-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://ultrazy-53593a853dec.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://ultrazy-53593a853dec.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
 
 </p>
 
