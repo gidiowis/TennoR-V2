@@ -10,8 +10,8 @@
 <p align="center">
 <a href="https://github.com/gidiowis?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/gidiowis?label=Followers&style=social"></a>
 <a href="https://github.com/gidiowis/TennoR-V2-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gidiowis/Tennor-V2-MD?&style=social"></a>
-<a href="https://github.com/gidiowis/Tennor-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/gidiowis/Tennor-V2-MD?style=social"></a>
-<a href="https://github.com/gidiowis/Tennor-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gidiowis/TennoR-V2-MD?label=Watching&style=social"></a>
+<a href="https://github.com/gidiowis/TennoR-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/gidiowis/Tennor-V2-MD?style=social"></a>
+<a href="https://github.com/gidiowis/TennoR-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gidiowis/TennoR-V2-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
  <h1 align="center"> Tennor Tech 𝑪𝒐𝒅𝒆
@@ -22,7 +22,7 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/TennoR-V2-MD&template=https://github.com/gidiowis/TennoR-V2-MD/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fgidiowis%2FTennoR-V2-MD&template=https%3A%2F%2Fgithub.com%2Fgidiowis%2FTennoR-V2-MD%2Ftree%2Fmain)
 
 </p>
 
