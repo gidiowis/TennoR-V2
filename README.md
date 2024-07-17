@@ -9,9 +9,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/gidiowis?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/gidiowis?label=Followers&style=social"></a>
-<a href="https://github.com/gidiowis/Tennor-V2-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gidiowis/Tennor-V2-MD?&style=social"></a>
+<a href="https://github.com/gidiowis/TennoR-V2-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gidiowis/Tennor-V2-MD?&style=social"></a>
 <a href="https://github.com/gidiowis/Tennor-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/gidiowis/Tennor-V2-MD?style=social"></a>
-<a href="https://github.com/gidiowis/Tennor-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gidiowis/Tennor-V2-MD?label=Watching&style=social"></a>
+<a href="https://github.com/gidiowis/Tennor-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gidiowis/TennoR-V2-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
  <h1 align="center"> Tennor Tech 𝑪𝒐𝒅𝒆
@@ -61,7 +61,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/gidiowis/Tennor-V2-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/gidiowis/TennoR-V2-MD/fork)
 
 2, TAP ON GET SESSIONS
 
