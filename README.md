@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/gidiowis?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/gidiowis?label=Followers&style=social"></a>
 <a href="https://github.com/gidiowis/TennoR-V2-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gidiowis/Tennor-V2-MD?&style=social"></a>
-<a href="https://github.com/gidiowis/TennoR-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/gidiowis/Tennor-V2-MD?style=social"></a>
+<a href="https://github.com/gidiowis/TennoR-V2-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/gidiowis/Tennor-V2-MD?style=social"></a>
 <a href="https://github.com/gidiowis/TennoR-V2-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gidiowis/TennoR-V2-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
@@ -18,7 +18,7 @@
 
 </p>
 
-<a href="https://ultrazy-53593a853dec.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://chezy-5a4c5fafb26d.herokuapp.com//"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
