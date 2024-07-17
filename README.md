@@ -22,7 +22,7 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/gidiowis/TennoR-V2/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/TennoR-V2-MD&template=https://github.com/gidiowis/TennoR-V2-MD/tree/main)
 
 </p>
 
