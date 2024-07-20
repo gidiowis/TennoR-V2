@@ -1,9 +1,9 @@
 {
   "name":"V-2-Tennor-XMD",
-  "description":"Deploy now your bot, Tennor Md was developed by Giddy Tennor.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "description":"Deploy now your bot, Tennor Md was developed by Giddy Tennor.Make sure you fill all valuables to avoid bot from 😌. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/06fbe9f07e30c880b7dbf.jpg",
-  "repository":"https://github.com/gidiowis/Tennor-V2-MD",
+  "repository":"https://github.com/gidiowis/Tennor-V2",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -83,7 +83,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2547703726139,254104245759"
+    "value": "254703726139,254104245759"
   },
     "WARN_COUNT":
   {
@@ -95,7 +95,7 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
