@@ -15,7 +15,7 @@ const { default: axios } = require('axios');
 
 
 
-zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "tagall", categorie: 'Group', reaction: "🥱" }, async (dest, zk, commandeOptions) => {
 
   const { ms, repondre, arg, verifGroupe, nomGroupe, infosGroupe, nomAuteurMessage, verifAdmin, superUser } = commandeOptions
 
@@ -206,7 +206,7 @@ zokou({ nomCom: "demote", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
 
 /** ***fin démettre****  **/
 /** **retirer** */
-zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "remove", categorie: 'Group', reaction: "💪" }, async (dest, zk, commandeOptions) => {
   let { repondre, msgRepondu, infosGroupe, auteurMsgRepondu, verifGroupe, nomAuteurMessage, auteurMessage, superUser, idBot } = commandeOptions;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   if (!verifGroupe) { return repondre("for groups only"); }
@@ -266,14 +266,14 @@ zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
               await zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "remove");
               zk.sendMessage(dest, { text: txt, mentions: [auteurMsgRepondu] })
 
-            } else { repondre("This member cannot be removed because he is an administrator of the group.") }
+            } else { repondre("This member cannot be removed because he is an administrator of the group😂.") }
 
           } else { return repondre("This user is not part of the group."); }
         }
-        else { return repondre("Sorry, I cannot perform this action because I am not an administrator of the group.") }
+        else { return repondre("Sorry, I cannot perform this action because I am not an administrator of the group🙄.") }
 
       } else { repondre("please tag the member to be removed"); }
-    } else { return repondre("Sorry I cannot perform this action because you are not an administrator of the group .") }
+    } else { return repondre("Sorry I cannot perform this action because you are not an administrator of the group🥺 .") }
   } catch (e) { repondre("oups " + e) }
 
 })
