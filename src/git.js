@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "git", reaction: "🌎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*Tennor MD GITHUB LINK*  \n\n ' + "*Created by : Giddy Tennor*";
-    let d = '                                                                              🚦 *LINK* : https://github.com/gidiowis/Tennor-MD';
+    let z = '*Tennor V2 GITHUB LINK*  \n\n ' + "*Created by : Giddy Tennor*";
+    let d = '                                                                              🚦 *LINK* : https://github.com/gidiowis/Tennor-V2';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
